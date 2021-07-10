@@ -16,7 +16,7 @@ Then you open a ssh-session like this: "ssh username@yourservername" before you 
 
 From now you actually have to install "sshpass" with: apt install sshpass -y or in centos  => yum install sshpass -y
 
-Then you´ll declare a alias in the ".bash:aliases"-file that you will also create. 
+Then you´ll declare a alias in the ".bash_aliases"-file that you will also create. 
 
 In the alias file the syntax is like this:
 
