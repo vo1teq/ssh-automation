@@ -29,5 +29,8 @@ Then you can enter the alias, which doesnt have to be named as "connect", you ca
 From now on you can use "connect" (or a other alias name, that you have declared for execute this code) and the code will execute.
 Then you got the input question and you´ll enter the name of your server or the word that you can actually choose to use this script and you´ll good to go :)
 
+I have written this code also in python, if you prefere the python script. ;)
+
+
 Have fun guys
 vo1teq
