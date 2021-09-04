@@ -4,7 +4,7 @@ Bash Script for automate SSH-Sessions/Connections
 
 Hello Guys,
 
-first off all, this one is my first bash-code and i'm really excited about it.
+first off all, this one is my first bash-code.
 
 You can use this with multiple if statements for every other server u want to connect to with ssh.
 
