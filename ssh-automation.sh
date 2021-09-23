@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Which server do you want to connect to?: "
 read userinput
 if [ "$userinput" == "your server name or server ip address" ]; then
