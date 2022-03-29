@@ -1,11 +1,6 @@
 # ssh-automation
 Bash Script for automate SSH-Sessions/Connections
 
-
-Hello Guys,
-
-first off all, this one is my first bash-code.
-
 You can use this with multiple if statements for every other server u want to connect to with ssh.
 
 Its really important to know, that you guys have to declare a new server that you want to connect to with the script is stored in the known hosts file.
