@@ -1,5 +1,5 @@
 # ssh-automation
-Bash Script for automate SSH-Sessions/Connections
+Bash Script for automating SSH-Sessions/Connections
 
 You can use this with multiple if statements for every other server u want to connect to with ssh.
 
